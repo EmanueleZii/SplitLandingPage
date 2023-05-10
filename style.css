@@ -76,7 +76,7 @@ span{
 
 .split.left{
     left: 0;
-    background: url("./img/ps5.jpg");
+    background: url("./img/ps5.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -102,7 +102,7 @@ span{
 
 .split.right{
     right: 0;
-    background: url("./img/xbox-series-x.jpg");
+    background: url("./img/xbox-series-x.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
