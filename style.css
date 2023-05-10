@@ -24,8 +24,17 @@ body{
     color: #fff;
 }
 
-h1{
+h1 {
     font-size: 4rem;
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+}
+span{
+    font-size: 1rem;
     color: #fff;
     position: absolute;
     left: 50%;
@@ -67,7 +76,7 @@ h1{
 
 .split.left{
     left: 0;
-    background: url("/img/ps5.jpg");
+    background: url("./img/ps5.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -93,7 +102,7 @@ h1{
 
 .split.right{
     right: 0;
-    background: url("/img/xbox-series-x.jpg");
+    background: url("./img/xbox-series-x.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
